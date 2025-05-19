@@ -9,4 +9,5 @@ writing a bio is hard, putting a few numbers here is easier:
 - path traversal + CSP bypass + path traversal for UI hijacking on social media platform: H1-1606027 [high]
 - undisclosed vulns in social media platform: H1-1501648 [medium]; H1-1523113 [medium]; H1-1523113 [medium]; H1-1933316 [medium]; H1-1775168 [medium]; H1-2005491 [medium]; H1-1562836 [medium]; H1-2269189 [medium]
 - domain takeover in undisclosed product: H1-1775761 [medium]
-- broken authentication in health app: H1-1919463 [high] 
+- broken authentication in health app: H1-1919463 [high]
+- & a ton more, most of which can't even be mentioned here x3

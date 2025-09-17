@@ -1,0 +1,30 @@
+# Secrets and sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.local
+.env.production
+secret.txt
+secrets/
+config/secrets.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
